@@ -1,0 +1,60 @@
+.navigation {
+  display: flex;
+  flex-direction: row;
+  height: 200 px;
+  justify-content: space-around;
+  justify-items: center;
+  background-color: #274424;
+  position: sticky;
+}
+.logo {
+  top: 5px;
+  width: 80px;
+  height: 50px;
+  border-radius: 20px;
+}
+h2 {
+  color: rgb(160, 247, 109);
+  font-size: larger;
+}
+a {
+  color: white;
+  font-size: larger;
+}
+.presentation {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  height: 300px;
+  background-color: #e1d6c6;
+}
+p {
+  color: darkgreen;
+  font-size: larger;
+  margin-left: 30px;
+  display: flex;
+}
+.type {
+  background-color: #e3d5c0;
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  flex-direction: row;
+  height: 300px;
+}
+h1 {
+  color: green;
+  font-style: italic;
+}
+h3 {
+  color: rgb(73, 103, 28);
+  font-size: medium;
+  font-weight: 300;
+  font-style: oblique;
+}
+button {
+  background-color: #ffffff;
+  color: green;
+  font-style: normal;
+  border-radius: 30px;
+}
